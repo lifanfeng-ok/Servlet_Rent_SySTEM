@@ -5,7 +5,7 @@ Servlet, JSP Project
 
 Users are divided into tenants, landlords, administrators.
 
-* `Tenant and landlord functions`: view listings(house), search for listings, mark listings, post for rent information, comment on rent, view announcements, manage personal information, manage personal collections, comments, posts.<br/>
+* `Tenant and landlord functions`: view listings(house), search for listings, mark listings, post for rent information, comment on rent posting, view announcements, manage personal information, manage personal collections, comments, posts.<br/>
 * `Administrator functions`: manage users, manage properties, manage rental information, manage announcements, manage comments, etc.
 
 /********************************************************************************/
